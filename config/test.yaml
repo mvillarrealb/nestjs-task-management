@@ -1,0 +1,8 @@
+
+db:
+  host: '127.0.0.1'
+  username: 'postgres'
+  password: 'casa1234'
+  synchronize: true
+jwt:
+  secret: 'topsecret51'

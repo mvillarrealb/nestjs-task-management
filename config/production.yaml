@@ -1,0 +1,4 @@
+server:
+  origin: http://mvillarreal-task-management-nestjs.s3-website-us-east-1.amazonaws.com
+db:
+  synchronize: false
